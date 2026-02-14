@@ -1,0 +1,8 @@
+{
+  "name": "MedSmart Pro",
+  "description": "A comprehensive digital pharmacy and health management platform with AI-powered medication analysis, health tracking, and prescription management.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
